@@ -1,0 +1,2 @@
+# xps_arch
+arch_linux_on_dell_xps_15_9550
