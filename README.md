@@ -12,3 +12,6 @@ nomcs - 이미지 뷰어
 firefox - 브라우저
 dwm - 리눅스 윈도우 매니저
 
+zettlr - 글쓰기 프로그램
+VSCODE - 코딩 프로그램 
+neofetch - 사용하는 인터페이스 표시 프로그램
