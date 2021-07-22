@@ -13,7 +13,11 @@ firefox - 브라우저
 dwm - 리눅스 윈도우 매니저
 
 zettlr - 글쓰기 프로그램
+
 VSCODE - 코딩 프로그램 
+
 neofetch - 사용하는 인터페이스 표시 프로그램
+
 geary - 메일 클라이언트 관리 프로그램 
+
 -- 구글 메일 사용시 https://myaccount.google.com/lesssecureapps 보안수준이 낮은 앱 허용에 체크를 해야한다. --
