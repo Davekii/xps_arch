@@ -21,3 +21,7 @@ neofetch - 사용하는 인터페이스 표시 프로그램
 geary - 메일 클라이언트 관리 프로그램 
 
 -- 구글 메일 사용시 https://myaccount.google.com/lesssecureapps 보안수준이 낮은 앱 허용에 체크를 해야한다. --
+
+
+standard note - 일반 메모, 노트작성 프로그램 핸드폰과의 연동이 빠르고 간단하다. 유저인터페이스가 직관적이기 때문에 사용하기 편리하다.
+
