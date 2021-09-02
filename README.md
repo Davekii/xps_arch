@@ -25,3 +25,17 @@ geary - 메일 클라이언트 관리 프로그램
 
 standard note - 일반 메모, 노트작성 프로그램 핸드폰과의 연동이 빠르고 간단하다. 유저인터페이스가 직관적이기 때문에 사용하기 편리하다.
 
+
+vim 의 vundle 플러그인들과 oh my zsh 의 플러그인들 
+
+sudo apt install zsh 
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting 
+
+위의 플러그인은 신택스 하이라이팅
+
+git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+
+이건 사용자가 쳤던 명령어들을 자동으로 추천해준다.
