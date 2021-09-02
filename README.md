@@ -32,9 +32,16 @@ sudo apt install zsh
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
+
+
+[zsh-syntax-highlighting]
+
+
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting 
 
 위의 플러그인은 신택스 하이라이팅
+
+[zsh-autosuggestions]
 
 git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
 
