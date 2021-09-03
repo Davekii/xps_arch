@@ -28,6 +28,12 @@ standard note - 일반 메모, 노트작성 프로그램 핸드폰과의 연동�
 
 vim 의 vundle 플러그인들과 oh my zsh 의 플러그인들 
 
+vim의 vundle 설치 
+
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
+
+
 sudo apt install zsh 
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
