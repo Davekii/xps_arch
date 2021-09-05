@@ -52,3 +52,19 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
 
 이건 사용자가 쳤던 명령어들을 자동으로 추천해준다.
+
+
+-- 데이터팀의 추천 개발환경 --
+
+vs code 개발 ide # https://code.visualstudio.com/
+
+jupyter notebook # pip install jupyterlab
+
+dbeaver = 데이터베이스 관리 프로그램 # https://dbeaver.io/
+
+** 회사의 서버는 총 3개 이다. **
+
+1. 나이팟 
+2. 델 워크스테이션 
+3. AWS
+
