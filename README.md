@@ -70,3 +70,8 @@ dbeaver = 데이터베이스 관리 프로그램 # https://dbeaver.io/
 2. 델 워크스테이션 
 3. AWS
 
+현재 사용중인 터치패드 설정
+
+xinput set-prop "UNIW0001:00 093A:1336 Touchpad" "libinput Tapping Enabled" 1
+xinput set-prop "UNIW0001:00 093A:1336 Touchpad" "libinput Click Method Enabled" 0 1
+
